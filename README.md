@@ -37,7 +37,7 @@ A digital clock implemented on an FPGA using Verilog, featuring time tracking (s
 - Manual buttons require external debouncing.
 - Display refresh at 200 Hz.
 
-## 8. Conclusion
+## 7. Conclusion
 This FPGA-based clock demonstrates modular design, precise timekeeping, and user interactivity.
 
 **End of Documentation**
